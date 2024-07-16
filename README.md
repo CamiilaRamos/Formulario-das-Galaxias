@@ -1,2 +1,2 @@
-# Site-sobre-as-Gal-xias
-Também foi um dos primeiros exercícios em html, esse é um site sobre as galáxias
+# Formulário de cadastro
+Também foi um dos primeiros exercícios em html, esse é um formulário de cadastro de astronautas.
